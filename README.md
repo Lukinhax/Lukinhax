@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 widrh="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Lukinhax&theme=dark&show_icons=true" />
+  <img height=200 width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Lukinhax&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukinhax&layout=compact&theme=dark&langs_count=4&card_width=320" />
