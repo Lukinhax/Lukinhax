@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou o Lucas Melo 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Lukinhax&theme=dark&show_icons=true" />
