@@ -1,4 +1,10 @@
-## Olá! Eu sou o Lucas Melo 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?weight=500&size=22&color=FFFFFF&center=true&vCenter=true&width=524&lines=Ol%C3%A1!+Eu+sou+o+Lucas+Melo+;Seja+bem+vindo+ao+meu+perfil+!" alt="Typing SVG">
+  </a>
+</div>
+
+##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Lukinhax&theme=dark&show_icons=true" />
